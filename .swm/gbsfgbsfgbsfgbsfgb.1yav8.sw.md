@@ -2,14 +2,16 @@
 id: 1yav8
 name: gbsfgbsfgbsfgbsfgb
 file_version: 1.0.2
-app_version: 0.6.7-1
+app_version: 0.6.8-1
 file_blobs:
-  main.go: 4efc54e646f66926fb54e3ab29bad52cc629378b
+  main.go: f538e0d0732b9307fa70224e84ff32ee5b83a9b9
 ---
 
 srthsrth werwrwer aertaert
 
 srthsrht
+
+`📄 main.go`
 
 srthsrthsrht
 
@@ -24,7 +26,7 @@ ddb
 ⬜ 6          "os"
 ⬜ 7      )
 ⬜ 8      
-🟩 9      func check(e error) {
+🟩 9      func checkly(e error) {
 🟩 10         if e != nil {
 🟩 11             panic(e)
 🟩 12         }
