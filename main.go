@@ -9,6 +9,8 @@ import (
 func checkly(e error) {
     if e != nil {
         panic(e)
+    } else {
+        panic(e)
     }
 }
 
