@@ -2,7 +2,9 @@
 id: u8in7
 name: zdfbzdfb
 file_version: 1.0.2
-app_version: 0.6.7-1
+app_version: 0.6.8-1
+file_blobs:
+  main.go: 4efc54e646f66926fb54e3ab29bad52cc629378b
 ---
 
 zdfbzdfbdzfbzdfbdzfbzdfbzdfbzdfbzdfb
@@ -22,6 +24,25 @@ dzfb
 eargaergaegr
 
 `📄 main.go`
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 main.go
+```go
+⬜ 5          "fmt"
+⬜ 6          "os"
+⬜ 7      )
+🟩 8      
+🟩 9      func check(e error) {
+🟩 10         if e != nil {
+🟩 11             panic(e)
+🟩 12         }
+🟩 13     }
+⬜ 14     
+⬜ 15     func main() {
+⬜ 16     
+```
 
 <br/>
 
