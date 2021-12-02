@@ -6,7 +6,7 @@ import (
     "os"
 )
 
-func check(e error) {
+func checkly(e error) {
     if e != nil {
         panic(e)
     }
